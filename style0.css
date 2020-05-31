@@ -13,3 +13,7 @@ img{
     height: 500px;
     width: 500px;
 }
+#count_det{
+    text-align: center;
+    font-weight: bold;
+}
