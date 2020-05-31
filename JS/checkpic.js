@@ -1,5 +1,5 @@
-var counter = document.getElementById("img1");
-var count = localStorage.getItem("count");
+const counter = document.getElementById("img1");
+let count = localStorage.getItem("count");
 
 if(count == null)
 {
