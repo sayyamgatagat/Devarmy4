@@ -1,5 +1,5 @@
 var counter = document.getElementById("img1");
-var count = localStorage.getItem("count2");
+var count = localStorage.getItem("count");
 
 if(count == null)
 {
@@ -9,6 +9,6 @@ count = parseInt(count, 10);
 document.getElementById("count_det").innerHTML = "This Image has been clicked " + count + " times";
 counter.onclick = function() {
     count += 1;
-    localStorage.setItem("count2",count);
+    localStorage.setItem("count",count);
     document.getElementById("count_det").innerHTML = "This Image has been clicked " + count + " times";
   };
