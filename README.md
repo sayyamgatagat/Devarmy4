@@ -13,8 +13,6 @@ And this is something that I would like to see it myself, I want you to use Gith
 Bonus: Add a way to retain the counter after reloading the webpage as well.
 
 
-link : https://sayyamgatagat.github.io/Devarmy4/
-
 ## Stage 2
 
 add a new image with it's own clicker count. 
@@ -24,4 +22,4 @@ Also give unique id to the elements.
 
 Bonus: Make the webpage responsive. The design choice is yours on how you want to make them look like. Use your creativity.
 
-link : https://checkmypics2.netlify.app
+### link : https://sayyamgatagat.github.io/Devarmy4/
