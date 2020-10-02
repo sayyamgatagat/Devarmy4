@@ -23,3 +23,5 @@ Add title and a caption below the pictures. Use semantic tags to make the HTML c
 Also give unique id to the elements. 
 
 Bonus: Make the webpage responsive. The design choice is yours on how you want to make them look like. Use your creativity.
+
+link : https://checkmypics2.netlify.app
